@@ -13,7 +13,7 @@
     "@formkit/auto-animate": "^0.8.1",
     "@types/whois-json": "^2.0.4",
     "axios": "^1.6.7",
-    "next": "14.1.0",
+    "next": "14.2.35",
     "react": "^18.2.0",
     "react-code-blocks": "^0.1.6",
     "react-confetti": "^6.1.0",
